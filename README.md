@@ -1,3 +1,5 @@
 # Children_player
 This website contain songs for kids.
-Made by using HTML CSS and JS
+#Ftsy project
+Complete static website
+Use of HTML CSS and JS is here 
